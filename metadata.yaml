@@ -1,5 +1,8 @@
 _repo: Toffee-haunts-a-ghost_71659
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71659-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrell, Henry
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53188
     wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71659#Toffee-haunts-a-ghost
 gutenberg_issued: '2023-09-15'
 identifiers:
   gutenberg: '71659'
